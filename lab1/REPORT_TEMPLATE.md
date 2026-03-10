@@ -1,7 +1,7 @@
 # Intro to formal languages. Regular grammars. Finite Automata.
 
 ### Course: Formal Languages & Finite Automata
-### Author: Toderita Loredana
+### Author: Tacu Loredana
 ### Variant: 23
 
 ----

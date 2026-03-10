@@ -1,0 +1,14 @@
+digraph "DFA_Variant23" {
+    rankdir=LR;
+    size="10,5";
+    node [shape = point]; start;
+    node [shape = doublecircle]; "{q0,q2}";
+    node [shape = circle];
+    start -> "{q0}";
+    "{q0}" -> "{q0,q1}" [label="a"];
+    "{q0}" -> "{q0}" [label="b"];
+    "{q0,q1}" -> "{q0,q1}" [label="a"];
+    "{q0,q1}" -> "{q0,q2}" [label="b"];
+    "{q0,q2}" -> "{q0,q1}" [label="a"];
+    "{q0,q2}" -> "{q0,q2}" [label="b"];
+}

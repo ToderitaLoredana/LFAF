@@ -1,5 +1,5 @@
-package LFAF.lab1;
 
+package LFAF.lab1;
 import java.util.*;
 
 public class Main {
