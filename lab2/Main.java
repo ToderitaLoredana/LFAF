@@ -5,9 +5,8 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) throws Exception {
 
-        System.out.println("╔══════════════════════════════════════════════╗");
-        System.out.println("║   Lab 2 — Variant 23                        ║");
-        System.out.println("║   Determinism, NDFA→DFA, Chomsky Hierarchy   ║");
+        System.out.println("   Lab 2 — Variant 23                        ");
+        System.out.println("   Determinism, NDFA→DFA, Chomsky Hierarchy   ");
         System.out.println("\n");
 
         // ── Task 2a: Chomsky hierarchy classification (grammar from Lab 1) ──
